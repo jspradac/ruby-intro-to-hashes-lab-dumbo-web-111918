@@ -1,5 +1,5 @@
 def new_hash
-
+  hashish = {red: "ball"}
 end
 
 def actor
